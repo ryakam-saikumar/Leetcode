@@ -46,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/ryakam-saikumar/Leetcode/tree/master/0152-maximum-product-subarray) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ryakam-saikumar/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
