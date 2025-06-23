@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ryakam-saikumar/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/ryakam-saikumar/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0409-longest-palindrome](https://github.com/ryakam-saikumar/Leetcode/tree/master/0409-longest-palindrome) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/ryakam-saikumar/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
@@ -48,10 +49,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ryakam-saikumar/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0152-maximum-product-subarray](https://github.com/ryakam-saikumar/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Database
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/ryakam-saikumar/Leetcode/tree/master/0175-combine-two-tables) |
 | [0196-delete-duplicate-emails](https://github.com/ryakam-saikumar/Leetcode/tree/master/0196-delete-duplicate-emails) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ryakam-saikumar/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
