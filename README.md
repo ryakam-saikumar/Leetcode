@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/ryakam-saikumar/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [1137-height-checker](https://github.com/ryakam-saikumar/Leetcode/tree/master/1137-height-checker) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ryakam-saikumar/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ryakam-saikumar/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Greedy
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1137-height-checker](https://github.com/ryakam-saikumar/Leetcode/tree/master/1137-height-checker) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ryakam-saikumar/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ryakam-saikumar/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Hash Table
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ryakam-saikumar/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/ryakam-saikumar/Leetcode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
