@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ryakam-saikumar/Leetcode/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/ryakam-saikumar/Leetcode/tree/master/0292-nim-game) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ryakam-saikumar/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ryakam-saikumar/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## String
@@ -91,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ryakam-saikumar/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ryakam-saikumar/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ryakam-saikumar/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
