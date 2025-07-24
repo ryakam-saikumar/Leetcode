@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/ryakam-saikumar/Leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/ryakam-saikumar/Leetcode/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/ryakam-saikumar/Leetcode/tree/master/0412-fizz-buzz) |
 | [0944-smallest-range-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/0944-smallest-range-i) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ryakam-saikumar/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ryakam-saikumar/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/ryakam-saikumar/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0409-longest-palindrome](https://github.com/ryakam-saikumar/Leetcode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/ryakam-saikumar/Leetcode/tree/master/0412-fizz-buzz) |
 | [0841-shortest-distance-to-a-character](https://github.com/ryakam-saikumar/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ryakam-saikumar/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/ryakam-saikumar/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ryakam-saikumar/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/ryakam-saikumar/Leetcode/tree/master/0412-fizz-buzz) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ryakam-saikumar/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
