@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ryakam-saikumar/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ryakam-saikumar/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ryakam-saikumar/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/ryakam-saikumar/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ryakam-saikumar/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
