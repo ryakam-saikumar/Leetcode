@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/1217-relative-sort-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ryakam-saikumar/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1524-string-matching-in-an-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ryakam-saikumar/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ryakam-saikumar/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/ryakam-saikumar/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ryakam-saikumar/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/ryakam-saikumar/Leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1524-string-matching-in-an-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ryakam-saikumar/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/ryakam-saikumar/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/ryakam-saikumar/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/ryakam-saikumar/Leetcode/tree/master/0692-top-k-frequent-words) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
