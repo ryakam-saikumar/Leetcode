@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/ryakam-saikumar/Leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ryakam-saikumar/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0506-relative-ranks](https://github.com/ryakam-saikumar/Leetcode/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/ryakam-saikumar/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/ryakam-saikumar/Leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/ryakam-saikumar/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/ryakam-saikumar/Leetcode/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/ryakam-saikumar/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/ryakam-saikumar/Leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/ryakam-saikumar/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/ryakam-saikumar/Leetcode/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/ryakam-saikumar/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1127-last-stone-weight](https://github.com/ryakam-saikumar/Leetcode/tree/master/1127-last-stone-weight) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ryakam-saikumar/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
