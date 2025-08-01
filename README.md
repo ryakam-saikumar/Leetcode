@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/ryakam-saikumar/Leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ryakam-saikumar/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/ryakam-saikumar/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/ryakam-saikumar/Leetcode/tree/master/0645-set-mismatch) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ryakam-saikumar/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0118-pascals-triangle](https://github.com/ryakam-saikumar/Leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ryakam-saikumar/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Database
 |  |
