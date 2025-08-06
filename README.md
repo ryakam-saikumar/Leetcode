@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ryakam-saikumar/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/ryakam-saikumar/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/ryakam-saikumar/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ryakam-saikumar/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Greedy
 |  |
@@ -252,12 +253,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/ryakam-saikumar/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/ryakam-saikumar/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Segment Tree
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/ryakam-saikumar/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/ryakam-saikumar/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/ryakam-saikumar/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/ryakam-saikumar/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
