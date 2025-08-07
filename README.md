@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ryakam-saikumar/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0118-pascals-triangle](https://github.com/ryakam-saikumar/Leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ryakam-saikumar/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0228-summary-ranges](https://github.com/ryakam-saikumar/Leetcode/tree/master/0228-summary-ranges) |
 | [0506-relative-ranks](https://github.com/ryakam-saikumar/Leetcode/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/ryakam-saikumar/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/ryakam-saikumar/Leetcode/tree/master/0645-set-mismatch) |
