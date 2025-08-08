@@ -2,6 +2,7 @@ class Solution {
     double soup(int a,int b,double[][] dp){
         if(a<=0&&b<=0) return 0.5;
         if(a<=0) return 1.0;
+
         if(b<=0) return 0.0;
         if(dp[a][b]!=-1.0){
             return dp[a][b];
