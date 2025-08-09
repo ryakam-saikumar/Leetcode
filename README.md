@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ryakam-saikumar/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0054-spiral-matrix](https://github.com/ryakam-saikumar/Leetcode/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/ryakam-saikumar/Leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ryakam-saikumar/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0228-summary-ranges](https://github.com/ryakam-saikumar/Leetcode/tree/master/0228-summary-ranges) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ryakam-saikumar/Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/ryakam-saikumar/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ryakam-saikumar/Leetcode/tree/master/0412-fizz-buzz) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ryakam-saikumar/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ryakam-saikumar/Leetcode/tree/master/0054-spiral-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ryakam-saikumar/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Binary Search
 |  |
