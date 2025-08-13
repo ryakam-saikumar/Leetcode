@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ryakam-saikumar/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ryakam-saikumar/Leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/ryakam-saikumar/Leetcode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/ryakam-saikumar/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/ryakam-saikumar/Leetcode/tree/master/0412-fizz-buzz) |
 | [0826-soup-servings](https://github.com/ryakam-saikumar/Leetcode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/ryakam-saikumar/Leetcode/tree/master/0900-reordered-power-of-2) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ryakam-saikumar/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ryakam-saikumar/Leetcode/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Prefix Sum
 |  |
