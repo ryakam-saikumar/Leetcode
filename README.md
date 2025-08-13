@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/ryakam-saikumar/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0944-smallest-range-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/0944-smallest-range-i) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ryakam-saikumar/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/ryakam-saikumar/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ryakam-saikumar/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -302,4 +303,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ryakam-saikumar/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/ryakam-saikumar/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+## Linked List
+|  |
+| ------- |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/ryakam-saikumar/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
