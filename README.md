@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ryakam-saikumar/Leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ryakam-saikumar/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0228-summary-ranges](https://github.com/ryakam-saikumar/Leetcode/tree/master/0228-summary-ranges) |
+| [0275-h-index-ii](https://github.com/ryakam-saikumar/Leetcode/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ryakam-saikumar/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ryakam-saikumar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0500-keyboard-row](https://github.com/ryakam-saikumar/Leetcode/tree/master/0500-keyboard-row) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0275-h-index-ii](https://github.com/ryakam-saikumar/Leetcode/tree/master/0275-h-index-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ryakam-saikumar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ryakam-saikumar/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [3790-fruits-into-baskets-ii](https://github.com/ryakam-saikumar/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
