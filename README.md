@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ryakam-saikumar/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/ryakam-saikumar/Leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/ryakam-saikumar/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0782-jewels-and-stones](https://github.com/ryakam-saikumar/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/ryakam-saikumar/Leetcode/tree/master/0837-most-common-word) |
 | [0900-reordered-power-of-2](https://github.com/ryakam-saikumar/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ryakam-saikumar/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/ryakam-saikumar/Leetcode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ryakam-saikumar/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/ryakam-saikumar/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0782-jewels-and-stones](https://github.com/ryakam-saikumar/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/ryakam-saikumar/Leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/ryakam-saikumar/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ryakam-saikumar/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
