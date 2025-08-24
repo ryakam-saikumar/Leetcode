@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/1580-shuffle-the-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ryakam-saikumar/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ryakam-saikumar/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/ryakam-saikumar/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ryakam-saikumar/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ryakam-saikumar/Leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ryakam-saikumar/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0826-soup-servings](https://github.com/ryakam-saikumar/Leetcode/tree/master/0826-soup-servings) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ryakam-saikumar/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Database
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/ryakam-saikumar/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/ryakam-saikumar/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ryakam-saikumar/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Recursion
 |  |
 | ------- |
