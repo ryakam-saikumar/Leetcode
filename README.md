@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/ryakam-saikumar/Leetcode/tree/master/0409-longest-palindrome) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ryakam-saikumar/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/ryakam-saikumar/Leetcode/tree/master/1448-maximum-69-number) |
+| [2032-largest-odd-number-in-string](https://github.com/ryakam-saikumar/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ryakam-saikumar/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ryakam-saikumar/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ryakam-saikumar/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ryakam-saikumar/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ryakam-saikumar/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/ryakam-saikumar/Leetcode/tree/master/1448-maximum-69-number) |
+| [2032-largest-odd-number-in-string](https://github.com/ryakam-saikumar/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/ryakam-saikumar/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/ryakam-saikumar/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/ryakam-saikumar/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1970-sorting-the-sentence](https://github.com/ryakam-saikumar/Leetcode/tree/master/1970-sorting-the-sentence) |
+| [2032-largest-odd-number-in-string](https://github.com/ryakam-saikumar/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/ryakam-saikumar/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ryakam-saikumar/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ryakam-saikumar/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
