@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/ryakam-saikumar/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/ryakam-saikumar/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ryakam-saikumar/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ryakam-saikumar/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ryakam-saikumar/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ryakam-saikumar/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/ryakam-saikumar/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1933-number-of-different-integers-in-a-string](https://github.com/ryakam-saikumar/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1970-sorting-the-sentence](https://github.com/ryakam-saikumar/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/ryakam-saikumar/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ryakam-saikumar/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/ryakam-saikumar/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ryakam-saikumar/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ryakam-saikumar/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/ryakam-saikumar/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/ryakam-saikumar/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ryakam-saikumar/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ryakam-saikumar/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ryakam-saikumar/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ryakam-saikumar/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
