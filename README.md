@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/ryakam-saikumar/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/ryakam-saikumar/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ryakam-saikumar/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/ryakam-saikumar/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/ryakam-saikumar/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ryakam-saikumar/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ryakam-saikumar/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ryakam-saikumar/Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/ryakam-saikumar/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ryakam-saikumar/Leetcode/tree/master/0412-fizz-buzz) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/ryakam-saikumar/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ryakam-saikumar/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ryakam-saikumar/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ryakam-saikumar/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
