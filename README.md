@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/ryakam-saikumar/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ryakam-saikumar/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/ryakam-saikumar/Leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/ryakam-saikumar/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ryakam-saikumar/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/ryakam-saikumar/Leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1524-string-matching-in-an-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/1524-string-matching-in-an-array) |
