@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/ryakam-saikumar/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/ryakam-saikumar/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ryakam-saikumar/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/ryakam-saikumar/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ryakam-saikumar/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ryakam-saikumar/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ryakam-saikumar/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/ryakam-saikumar/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/ryakam-saikumar/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1970-sorting-the-sentence](https://github.com/ryakam-saikumar/Leetcode/tree/master/1970-sorting-the-sentence) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/ryakam-saikumar/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/ryakam-saikumar/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ryakam-saikumar/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ryakam-saikumar/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/ryakam-saikumar/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/ryakam-saikumar/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/ryakam-saikumar/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ryakam-saikumar/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ryakam-saikumar/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ryakam-saikumar/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
