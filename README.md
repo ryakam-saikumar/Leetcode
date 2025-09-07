@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ryakam-saikumar/Leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ryakam-saikumar/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ryakam-saikumar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0228-summary-ranges](https://github.com/ryakam-saikumar/Leetcode/tree/master/0228-summary-ranges) |
 | [0275-h-index-ii](https://github.com/ryakam-saikumar/Leetcode/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ryakam-saikumar/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ryakam-saikumar/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ryakam-saikumar/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ryakam-saikumar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/ryakam-saikumar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0841-shortest-distance-to-a-character](https://github.com/ryakam-saikumar/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 ## Number Theory
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ryakam-saikumar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0275-h-index-ii](https://github.com/ryakam-saikumar/Leetcode/tree/master/0275-h-index-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ryakam-saikumar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ryakam-saikumar/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
