@@ -16,7 +16,7 @@ class Solution {
             
         }
         }else{
-for(int i=-x;i<=+x;i++){
+                for(int i=-x;i<=+x;i++){
                 
                     a[k]=i;
             k++;
