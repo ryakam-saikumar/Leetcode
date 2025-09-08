@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ryakam-saikumar/Leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ryakam-saikumar/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ryakam-saikumar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/ryakam-saikumar/Leetcode/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/ryakam-saikumar/Leetcode/tree/master/0228-summary-ranges) |
 | [0275-h-index-ii](https://github.com/ryakam-saikumar/Leetcode/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ryakam-saikumar/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ryakam-saikumar/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ryakam-saikumar/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ryakam-saikumar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ryakam-saikumar/Leetcode/tree/master/0414-third-maximum-number) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ryakam-saikumar/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ryakam-saikumar/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ryakam-saikumar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/ryakam-saikumar/Leetcode/tree/master/0409-longest-palindrome) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ryakam-saikumar/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ryakam-saikumar/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ryakam-saikumar/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/ryakam-saikumar/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -402,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ryakam-saikumar/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ryakam-saikumar/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
