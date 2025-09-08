@@ -1,17 +1,13 @@
 class Solution {
     public int[] getNoZeroIntegers(int n) {
         int[] an=new int[2];
-        for(int a=1;a<n;a++){
+        int a=1;
         int b=n-a;
-        if(iszero(a)&&iszero(b)){
-            an[0]=a;
-            an[1]=b;
-        return an;  
+        while (!iszero(a) || !iszero(b)) {
+            a++;
+            b--;
         }
-        }
-        
-        
-        return an;
+        return new int[]{a, b};
     }
     public boolean iszero(int x){
         while(x>0){
