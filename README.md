@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ryakam-saikumar/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ryakam-saikumar/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/ryakam-saikumar/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ryakam-saikumar/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ryakam-saikumar/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/ryakam-saikumar/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/ryakam-saikumar/Leetcode/tree/master/2083-three-divisors) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/ryakam-saikumar/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3462-vowels-game-in-a-string](https://github.com/ryakam-saikumar/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/ryakam-saikumar/Leetcode/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/ryakam-saikumar/Leetcode/tree/master/2083-three-divisors) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ryakam-saikumar/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Counting Sort
 |  |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ryakam-saikumar/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/ryakam-saikumar/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Linked List
