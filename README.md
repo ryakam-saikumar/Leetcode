@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ryakam-saikumar/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/ryakam-saikumar/Leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/ryakam-saikumar/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0739-daily-temperatures](https://github.com/ryakam-saikumar/Leetcode/tree/master/0739-daily-temperatures) |
 | [0837-most-common-word](https://github.com/ryakam-saikumar/Leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/ryakam-saikumar/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0940-fruit-into-baskets](https://github.com/ryakam-saikumar/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/ryakam-saikumar/Leetcode/tree/master/0739-daily-temperatures) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ryakam-saikumar/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/ryakam-saikumar/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -457,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ryakam-saikumar/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ryakam-saikumar/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
