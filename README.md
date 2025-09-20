@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ryakam-saikumar/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ryakam-saikumar/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ryakam-saikumar/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ryakam-saikumar/Leetcode/tree/master/0015-3sum) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ryakam-saikumar/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ryakam-saikumar/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ryakam-saikumar/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/ryakam-saikumar/Leetcode/tree/master/0242-valid-anagram) |
