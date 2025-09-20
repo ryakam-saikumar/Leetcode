@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/ryakam-saikumar/Leetcode/tree/master/0175-combine-two-tables) |
 | [0196-delete-duplicate-emails](https://github.com/ryakam-saikumar/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/ryakam-saikumar/Leetcode/tree/master/0197-rising-temperature) |
+| [0596-classes-with-at-least-5-students](https://github.com/ryakam-saikumar/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1179-game-play-analysis-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/ryakam-saikumar/Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 ## Two Pointers
