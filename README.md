@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/ryakam-saikumar/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/ryakam-saikumar/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2288-count-operations-to-obtain-zero](https://github.com/ryakam-saikumar/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/ryakam-saikumar/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3462-vowels-game-in-a-string](https://github.com/ryakam-saikumar/Leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ryakam-saikumar/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ryakam-saikumar/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ryakam-saikumar/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2288-count-operations-to-obtain-zero](https://github.com/ryakam-saikumar/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ryakam-saikumar/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ryakam-saikumar/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ryakam-saikumar/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
