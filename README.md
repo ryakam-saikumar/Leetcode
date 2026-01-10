@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ryakam-saikumar/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ryakam-saikumar/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ryakam-saikumar/Leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/ryakam-saikumar/Leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ryakam-saikumar/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ryakam-saikumar/Leetcode/tree/master/0118-pascals-triangle) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ryakam-saikumar/Leetcode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/ryakam-saikumar/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ryakam-saikumar/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ryakam-saikumar/Leetcode/tree/master/0231-power-of-two) |
