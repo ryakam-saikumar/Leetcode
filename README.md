@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/ryakam-saikumar/Leetcode/tree/master/1137-height-checker) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/ryakam-saikumar/Leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1217-relative-sort-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/1217-relative-sort-array) |
+| [1390-four-divisors](https://github.com/ryakam-saikumar/Leetcode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ryakam-saikumar/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/ryakam-saikumar/Leetcode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/ryakam-saikumar/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0944-smallest-range-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/0944-smallest-range-i) |
+| [1390-four-divisors](https://github.com/ryakam-saikumar/Leetcode/tree/master/1390-four-divisors) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ryakam-saikumar/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ryakam-saikumar/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ryakam-saikumar/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
