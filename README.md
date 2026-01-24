@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ryakam-saikumar/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ryakam-saikumar/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ryakam-saikumar/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/ryakam-saikumar/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/ryakam-saikumar/Leetcode/tree/master/2502-sort-the-people) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ryakam-saikumar/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ryakam-saikumar/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ryakam-saikumar/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ryakam-saikumar/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ryakam-saikumar/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/ryakam-saikumar/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ryakam-saikumar/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3226-minimum-number-game](https://github.com/ryakam-saikumar/Leetcode/tree/master/3226-minimum-number-game) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/ryakam-saikumar/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ryakam-saikumar/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ryakam-saikumar/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/ryakam-saikumar/Leetcode/tree/master/3226-minimum-number-game) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Brainteaser
 |  |
@@ -492,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/ryakam-saikumar/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ryakam-saikumar/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Probability and Statistics
@@ -518,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ryakam-saikumar/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/ryakam-saikumar/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/ryakam-saikumar/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -532,4 +538,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/ryakam-saikumar/Leetcode/tree/master/0739-daily-temperatures) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
