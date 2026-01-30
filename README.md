@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/ryakam-saikumar/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1179-game-play-analysis-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/ryakam-saikumar/Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
+| [3436-find-valid-emails](https://github.com/ryakam-saikumar/Leetcode/tree/master/3436-find-valid-emails) |
 ## Two Pointers
 |  |
 | ------- |
