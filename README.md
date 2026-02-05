@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/ryakam-saikumar/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ryakam-saikumar/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3379-transformed-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ryakam-saikumar/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/ryakam-saikumar/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ryakam-saikumar/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3226-minimum-number-game](https://github.com/ryakam-saikumar/Leetcode/tree/master/3226-minimum-number-game) |
+| [3379-transformed-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
