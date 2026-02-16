@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/ryakam-saikumar/Leetcode/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/ryakam-saikumar/Leetcode/tree/master/0577-employee-bonus) |
 | [0596-classes-with-at-least-5-students](https://github.com/ryakam-saikumar/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
+| [0610-triangle-judgement](https://github.com/ryakam-saikumar/Leetcode/tree/master/0610-triangle-judgement) |
 | [1179-game-play-analysis-i](https://github.com/ryakam-saikumar/Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ryakam-saikumar/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/ryakam-saikumar/Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
