@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/ryakam-saikumar/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ryakam-saikumar/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/ryakam-saikumar/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ryakam-saikumar/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/ryakam-saikumar/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ryakam-saikumar/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1542-consecutive-characters](https://github.com/ryakam-saikumar/Leetcode/tree/master/1542-consecutive-characters) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/ryakam-saikumar/Leetcode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/ryakam-saikumar/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/ryakam-saikumar/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ryakam-saikumar/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/ryakam-saikumar/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/ryakam-saikumar/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ryakam-saikumar/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ryakam-saikumar/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/ryakam-saikumar/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/ryakam-saikumar/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/ryakam-saikumar/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ryakam-saikumar/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
