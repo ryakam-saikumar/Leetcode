@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/ryakam-saikumar/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/ryakam-saikumar/Leetcode/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/ryakam-saikumar/Leetcode/tree/master/0645-set-mismatch) |
+| [1009-complement-of-base-10-integer](https://github.com/ryakam-saikumar/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ryakam-saikumar/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ryakam-saikumar/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2529-range-product-queries-of-powers](https://github.com/ryakam-saikumar/Leetcode/tree/master/2529-range-product-queries-of-powers) |
